@@ -1,0 +1,1 @@
+# from manipuladados import textuais
